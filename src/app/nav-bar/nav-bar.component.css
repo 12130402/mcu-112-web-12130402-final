@@ -28,3 +28,14 @@ ul li a {
   font-size: 1.2rem;
   cursor: pointer;
 }
+
+ul li a:hover {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+ul li a:hover {
+  color: rgba(0, 0, 0, 0.5);
+}
+ul li a.active {
+  color: rgba(0, 0, 0, 0.7);
+}
