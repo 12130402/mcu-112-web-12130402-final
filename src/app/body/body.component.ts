@@ -6,7 +6,7 @@ import { TagListComponent } from '../tag-list/tag-list.component';
 @Component({
   selector: 'app-body',
   standalone: true,
-  imports: [ArticleListComponent, TagListComponent],
+  imports: [ArticleListComponent, TagSidebarComponent],
   templateUrl: './body.component.html',
   styleUrl: './body.component.css',
 })
