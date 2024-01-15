@@ -1,6 +1,7 @@
 import { Component, HostBinding } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { TagComponent } from '../tag/tag.component';
+import { TagListComponent } from '../tag-list/tag-list.component';
 
 @Component({
   selector: 'app-article-preview',
